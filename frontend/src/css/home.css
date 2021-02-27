@@ -1,0 +1,33 @@
+.heroText {
+    text-align: center;
+    /* font-family: Ubuntu, "times new roman", times, roman, serif; */
+    position: absolute;
+    top: 350px;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     padding-top: 10rem;
+
+     
+ }
+
+ .head {
+    color:#fff;
+    font-size: 50pt;
+ }
+
+ .p {
+    font-size: 15pt;
+ }
+
+ .videoHero {
+  /* width: 1380px; */
+  width:100%;
+  height: 580px;
+  z-index: -1;
+  top: 0px;
+  bottom: 0px;
+ 
+  padding: 0px;
+  object-fit: cover;
+ 
+ }
